@@ -85,7 +85,7 @@ def main():
        ['xanadu', 'xyz', 'aardvark', 'apple', 'mix'])
 
        
-  print
+  print()
   print('sort_last')
   test(sort_last([(1, 3), (3, 2), (2, 1)]),
        [(2, 1), (3, 2), (1, 3)])
